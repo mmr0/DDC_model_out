@@ -1,8 +1,7 @@
 # DDC_model_out
 Model output from large-eddy simulation of the ice-ocean boundary layer at conditions farvourable to double-diffusive convection.
 
-The model domain consists of a horizontal, planar ice-ocean interface with ocean below. The governing equations and numerical implementation for the code,
-as well as the problem set up and forcing, are described in [cite paper here].
+The model domain consists of a horizontal, planar ice-ocean interface with ocean below.
 
 The 5 simulations in this directory span a range of free stream velocities (U0) and temperatures (T0):
 
